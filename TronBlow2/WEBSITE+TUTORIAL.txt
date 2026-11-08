@@ -1,0 +1,66 @@
+LINK tronblow
+====================
+https://tronblow.site/?ref=anbukaskus1%40gmail.com
+
+
+
+link ektension bypass telegram
+===========================
+https://chromewebstore.google.com/detail/jheaicmfgoefbdmadnhigbpdldafaokb?utm_source=item-share-cb
+
+
+KOLEKSI SCRIPT TERBARU KUNJUNGI
+===================================
+CHANNEL JENDELA CUAN
+https://youtube.com/@qwertyasdf4554?si=h_7NgOvErOOPYJqQ
+
+CHANNEL JENDELA UANG DANA
+https://youtube.com/@jendelauangdana?si=6NmXt6xuMTBoTrZb
+
+========================================
+PERINTAH WAJIB KHUSUS PEMULA!!
+========================================
+(WAJIB DIJALANKAN KHUSUS YG BARU INSTALL TERMUX)
+CARANYA :
+Copy Paste Setiap baris perintah ini di termux
+lalu abang enter ya
+jika ada notif pertanyaan [Y/N] jawab y aja lalu enter.
+
+pkg update
+pkg upgrade
+pkg install php imagemagick tesseract
+termux-setup-storage
+pkg install python
+pkg install php
+pip install seledroid
+pip install telethon
+pip install rich
+pip install requests bs4
+pip install janda
+pip install pycryptodome
+pip install pyrogram tgcrypto 
+pip install pillow
+pip install pypng
+pip install pycurl
+pip install curl_cffi
+pip install httpx
+pip install bas-http
+pip install skipcha
+pkg install python-pillow
+
+==============
+Link API Key
+==============
+
+API Key Skibidixx/Waryono
+https://t.me/ski_control_api_Bot?start=_tgr_BseHhGI1YTRk
+
+
+untuk jalankan scriptnya :
+Ketik cd /sdcard
+Ketik cd script (dengan asumsi semua folder scriptnya ada didalam folder script)
+Ketik php tronblow.php
+sisanya tonton video biar jelas
+
+kalo mau stop scriptnya
+tekan CTRL lalu ketik C atau Z
